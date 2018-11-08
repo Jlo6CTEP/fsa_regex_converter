@@ -1,5 +1,5 @@
-states={v,k}
-alpha={0,1,2_1}
-init.st={lol}
+states={on, off, kek, lel}
+alpha={1,2,3,4,5,6}
+init.st={on}
 fin.st={off}
-trans={on>1>off,on>2>on,off>turn_on>on,off>turn_off>off,off>turn_off>off}
+trans={on>1>off,on>2>on,off>3>on,off>4>off,off>5>kek,on>6>off}
