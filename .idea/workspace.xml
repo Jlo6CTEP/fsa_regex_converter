@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c1be83a-1781-4f82-83ce-2374fd5c25f4" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Graph.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/converter.py" afterPath="$PROJECT_DIR$/converter.py" />
       <change beforePath="$PROJECT_DIR$/fsa.txt" afterPath="$PROJECT_DIR$/fsa.txt" />
@@ -15,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="converter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="converter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/converter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="227">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -27,61 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coreviews.py" pinned="false" current-in-tab="false">
-        <entry file="file://F:/python/Lib/site-packages/networkx/classes/coreviews.py">
+      <file leaf-file-name="Graph.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Graph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="19" column="74" lean-forward="false" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="convert_matrix.py" pinned="false" current-in-tab="false">
-        <entry file="file://F:/python/Lib/site-packages/networkx/convert_matrix.py">
+      <file leaf-file-name="result.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="1130" column="0" lean-forward="false" selection-start-line="1130" selection-start-column="0" selection-end-line="1130" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.py" pinned="false" current-in-tab="false">
-        <entry file="file://F:/python/Lib/site-packages/networkx/drawing/layout.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="450" column="0" lean-forward="false" selection-start-line="450" selection-start-column="0" selection-end-line="450" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decorators.py" pinned="false" current-in-tab="false">
-        <entry file="file://F:/python/Lib/site-packages/networkx/utils/decorators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mst.py" pinned="false" current-in-tab="false">
-        <entry file="file://F:/python/Lib/site-packages/networkx/algorithms/tree/mst.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="547" column="0" lean-forward="false" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="graph.py" pinned="false" current-in-tab="false">
-        <entry file="file://F:/python/Lib/site-packages/networkx/classes/graph.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="942" column="0" lean-forward="false" selection-start-line="942" selection-start-column="0" selection-end-line="942" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,8 +51,8 @@
       <file leaf-file-name="fsa.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fsa.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="68">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -125,7 +86,9 @@
         <option value="$PROJECT_DIR$/test" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/fsa.txt" />
+        <option value="$PROJECT_DIR$/Grapg.py" />
         <option value="$PROJECT_DIR$/converter.py" />
+        <option value="$PROJECT_DIR$/Graph.py" />
       </list>
     </option>
   </component>
@@ -278,11 +241,16 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/converter.py</url>
-          <line>35</line>
+          <line>57</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/converter.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -377,21 +345,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://F:/python/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="183" column="4" lean-forward="false" selection-start-line="183" selection-start-column="4" selection-end-line="183" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fsa.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state relative-caret-position="68">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/converter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="227">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="74" lean-forward="false" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
+          <folding />
         </state>
       </provider>
     </entry>

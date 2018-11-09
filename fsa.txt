@@ -2,4 +2,4 @@ states={on, off, kek, lel}
 alpha={1,2,3,4,5,6}
 init.st={on}
 fin.st={off}
-trans={on>1>off,on>2>on,off>3>on,off>4>off,off>5>kek,on>6>off}
+trans={on>1>off,on>1>on,off>3>on,off>4>off,off>5>kek,on>6>off}
